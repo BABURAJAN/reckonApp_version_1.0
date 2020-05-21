@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/reckondb",
+    "secret": "this_is_secret_key_of_reckon_app"
+}
